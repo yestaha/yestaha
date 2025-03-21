@@ -9,11 +9,10 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original.svg" height="30" alt="k3s logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
@@ -73,7 +72,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/yestaha/yestaha/output/snake.svg" alt="Snake animation" />
 
 ###
